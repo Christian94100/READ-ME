@@ -24,6 +24,14 @@ READ ME FROM MYSELF
 | **Mini Afterburner** | Rétro-Arcade 1987 | Python + Pygame (286 compatible) | [Jouer sur vieux PC](https://github.com/Christian94100/mini-afterburner) |
 | **Présentation Interactive** | Afterburner Mini | HTML Slides (KIMI base) | [Voir la démo](https://xrf34vdj3bqri.ok.kimi.link/present.html) |
 
+
+
+## Identité Officielle
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1449--7956-brightgreen?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1449-7956)  
+*Chercheur indépendant • Géopolitique 2049 • Rétro-Engineering Arcade*
+
+
+
 ---
 
 ## Mon Setup de Légende
